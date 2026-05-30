@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=%F0%9F%8E%A8+UI%2FUX+Designer+%7C+Product+Designer;%E2%9C%A8+Crafting+Intuitive+Digital+Experiences;%F0%9F%9B%A0%EF%B8%8F+Figma+%7C+HTML+%7C+CSS+%7C+React.js;%F0%9F%93%8D+Based+in+Chennai%2C+Tamil+Nadu)](https://git.io/typing-svg)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=thedevathlete&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/thedevathlete)
+[![Profile Views](https://komarev.com/ghpvc/?username=deva8334&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/deva8334)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-70a5fd?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-bf91f3?style=flat-square&logo=vercel&logoColor=white)](https://portfolio.com)
 [![Behance](https://img.shields.io/badge/Behance-Follow-38bdae?style=flat-square&logo=behance&logoColor=white)](https://behance.net)
@@ -90,11 +90,11 @@ const devanathan = {
 
 <div align="center">
 
-<a href="https://github.com/thedevathlete">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thedevathlete&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+<a href="https://github.com/deva8334">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deva8334&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
 </a>
-<a href="https://github.com/thedevathlete">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedevathlete&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+<a href="https://github.com/deva8334">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deva8334&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
 </a>
 
 </div>
@@ -105,7 +105,7 @@ const devanathan = {
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=thedevathlete&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=88949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=deva8334&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=88949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://github.com/deva8334)
 
 </div>
 
@@ -115,7 +115,7 @@ const devanathan = {
 
 <div align="center">
 
-[![Devanathan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thedevathlete&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/thedevathlete)
+[![Devanathan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=deva8334&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/deva8334)
 
 </div>
 
@@ -125,7 +125,25 @@ const devanathan = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=thedevathlete&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/thedevathlete)
+[![trophy](https://github-profile-trophy.vercel.app/?username=deva8334&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/deva8334)
+
+</div>
+
+### 🥇 Personal Achievements
+
+<div align="center">
+
+|  | Achievement | Details |
+|:---:|:---|:---|
+| 📄 | **Published Research Paper** | *AI Smart Stick for Visually Impaired* — Obstacle detection using ultrasonic sensors & computer vision; integrated haptic feedback (vibration motors) + auditory alerts; evaluated via real-world field testing |
+| 🎨 | **4 End-to-End Product Design Projects** | Book Nest · ZyGo · SwyftEat · IRCTC Redesign — all with wireframes, style guides & interactive Figma prototypes |
+| 🚌 | **40% Booking Flow Reduction** | ZyGo Bus Booking App — redesigned end-to-end flow from route search to ticket confirmation, cutting steps by 40% |
+| 🤖 | **ML Framework — CO₂ Emission Prediction** | Multi-stage pipeline: Random Forest + Gradient Boosting + Regression models on large environmental datasets; built stakeholder-facing dashboards |
+| 🏥 | **ML Model — Hospital Stay Prediction** | Predicted inpatient length-of-stay using feature selection, EDA & ensemble methods on real patient admission records |
+| 💼 | **2 Industry Internships Completed** | UI/UX & Frontend Intern @ M Squared Software · Web Dev Intern @ System Tronics Solutions |
+| 🏛️ | **B.Tech IT — CGPA 7.63** | Agni College of Technology · 2022–2026 |
+| 📜 | **Diploma CSE — CGPA 7.60** | Government Polytechnic College · 2018–2021 |
+| 🌐 | **Full-Stack Library Management System** | Built with React + Python + MySQL — user login, book catalog, admin controls, inventory tracking & overdue fine management |
 
 </div>
 
@@ -168,23 +186,6 @@ const devanathan = {
 | [**🚌 ZyGo**](https://figma.com) — Bus Booking Mobile App | `Figma` `Mobile UX` `Prototyping` | End-to-end booking flow design; **reduced booking steps by 40%**; intuitive seat selection & route filtering with clear visual hierarchy |
 | [**🍔 SwyftEat**](https://figma.com) — Food Delivery App Redesign | `Figma` `User Flows` `High-Fidelity UI` | Reduced friction in discovery & ordering; personalized home screen, smart search & intelligent filtering; fully interactive Figma prototype |
 | [**🚂 IRCTC Redesign**](https://figma.com) — Train Booking UX | `Figma` `Accessibility` `Navigation Design` | Reduced booking flow complexity for Indian railway users; enhanced visual hierarchy for better readability, action clarity & accessibility |
-
-</div>
-
----
-
-## 🏅 Achievements
-
-<div align="center">
-
-| 🏆 | Achievement | Details |
-|:---:|:---|:---|
-| 📄 | **Published Research Paper** | AI Smart Stick for Visually Impaired — obstacle detection via ultrasonic sensors & computer vision; integrated haptic + auditory feedback |
-| 🎓 | **B.Tech – Information Technology** | Agni College of Technology · CGPA **7.63** · 2022–2026 |
-| 🎓 | **Diploma – Computer Science Engineering** | Government Polytechnic College · CGPA **7.60** · 2018–2021 |
-| 🚌 | **40% Booking Flow Reduction** | ZyGo Bus Booking App — redesigned end-to-end flow cutting steps by 40% |
-| 🤖 | **ML Framework — CO₂ Prediction** | Multi-stage pipeline: Random Forest + Gradient Boosting + Regression on large environmental datasets |
-| 🏥 | **ML Model — Hospital Stay Prediction** | Predicted inpatient length-of-stay from admission records using feature selection, EDA & ensemble models |
 
 </div>
 
