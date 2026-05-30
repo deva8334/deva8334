@@ -121,13 +121,29 @@ const devanathan = {
 
 ---
 
-## 🏆 Trophy Wall
+## 🏆 Trophy Wall & Key Achievements
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=deva8334&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/deva8334)
+### 🔬 Research & Publications
 
 </div>
+
+---
+
+**📄 Research Paper — AI Smart Stick for Visually Impaired Users**
+`Published Research` `Assistive Technology`
+
+- 🧭 Conducted research on developing an **AI-powered Smart Stick** to assist visually impaired individuals in navigating safely.
+- 📡 Implemented **obstacle detection** using ultrasonic sensors and computer vision techniques for real-time path identification.
+- 📳 Integrated **haptic feedback** (vibration motors) and auditory alerts to notify users about nearby obstacles.
+- 🤖 Applied **machine learning algorithms** for object classification and improved obstacle recognition accuracy.
+- 🧪 Evaluated system performance through **field testing and user feedback**, demonstrating significant improvements in mobility.
+- 📝 Documented design methodology, technical architecture, and results in a **comprehensive research paper**.
+
+---
+
+<div align="center">
 
 ### 🥇 Personal Achievements
 
